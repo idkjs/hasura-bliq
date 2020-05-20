@@ -136,3 +136,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /dist/
+.rts2_cache_umd
+.rts2_cache_cjs/rpt2_552bb6761253545c557acafa720c5a03a3d9454b
+.rts2_cache_es
